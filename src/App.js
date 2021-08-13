@@ -1,9 +1,11 @@
+import BucketList from "./components/BucketList";
+
 function App() {
   return (
     <div>
-      Hello!
+      <BucketList />
     </div>
   );
 }
 
-export default App;
+export default App
